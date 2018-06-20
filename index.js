@@ -42,4 +42,4 @@ bot.on("ready", () => {
 
 
 
-bot.login('NDU4NTQzMzgyMTY0Mjc1MjEx.DgpLig.hAIjKHNpnn1hmE_4DgXErtD429w');
+bot.login('');
